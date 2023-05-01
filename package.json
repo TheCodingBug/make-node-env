@@ -1,0 +1,35 @@
+{
+  "name": "make-node-env",
+  "version": "0.0.1",
+  "description": "Make use of json file formatting for handling node environment configs.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "tsc",
+    "tslint": "tslint --project .",
+    "start": "rm -rf lib/ && tsc && node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCodingBug/make-node-env.git"
+  },
+  "keywords": [
+    "env",
+    "config",
+    "json",
+    "json config",
+    "node environment"
+  ],
+  "author": "Neil Francis Ramirez Hipona",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheCodingBug/make-node-env/issues"
+  },
+  "homepage": "https://github.com/TheCodingBug/make-node-env#readme",
+  "devDependencies": {
+    "tslint": "^6.1.3",
+    "typescript": "^5.0.4"
+  }
+}
