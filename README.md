@@ -52,3 +52,7 @@ test('Configuration using async load with config.json', function () {
   load();
 });
 ```
+
+# Jest Test
+
+<img width="563" alt="Screenshot 2023-05-05 at 8 55 00 PM" src="https://user-images.githubusercontent.com/8805997/236463993-4ab9e449-f28c-45a0-b15f-8b30630d889a.png">
