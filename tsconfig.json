@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         "alwaysStrict": true,
-        "module": "ES2022",
+        "module": "CommonJS",
         "esModuleInterop": true,
         "resolveJsonModule": true,
         "target": "ESNext",
