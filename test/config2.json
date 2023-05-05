@@ -1,0 +1,13 @@
+{
+    "db": {
+        "port": 124
+    },
+    "url": "github.com2",
+    "api": {
+        "host": {
+            "url": "https://www.sync.com",
+            "port": 9000,
+            "hasSSL": true
+        }
+    }
+}

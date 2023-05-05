@@ -1,0 +1,22 @@
+{
+    "db": {
+        "port": 124
+    },
+    "url": "github.com",
+    "webURLs": {
+        "api": {
+            "host": {
+                "url": "https://www.host.com",
+                "port": 9000,
+                "hasSSL": true
+            }
+        },
+        "staging": {
+            "host": {
+                "url": "https://www.staging.com",
+                "port": 9000,
+                "hasSSL": true
+            }
+        }
+    }
+}
