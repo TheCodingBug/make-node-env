@@ -1,3 +1,11 @@
+[![npm version](https://badge.fury.io/js/make-node-env.svg)](https://badge.fury.io/js/make-node-env)
+
+[![NPM](https://nodei.co/npm/make-node-env.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/make-node-env/)
+
+[![NPM](https://nodei.co/npm-dl/make-node-env.png?months=1)](https://nodei.co/npm/make-node-env/)
+
+[![NPM](https://nodei.co/npm-dl/make-node-env.png?months=6)](https://nodei.co/npm/make-node-env/)
+
 # make-node-env
 Make use of json file formatting for handling node environment configs.
 
