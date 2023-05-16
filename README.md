@@ -1,6 +1,19 @@
 # make-node-env
 Make use of json file formatting for handling node environment configs.
 
+# Installation
+Using `npm`:
+```
+npm i make-node-env
+```
+
+or 
+
+Using `yarn`:
+```
+yarn add make-node-env
+```
+
 # Setup
 ```
 /**
