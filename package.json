@@ -1,6 +1,6 @@
 {
   "name": "make-node-env",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Make use of json file formatting for handling node environment configs.",
   "main": "lib/index.js",
   "type": "commonjs",
