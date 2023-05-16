@@ -1,0 +1,11 @@
+/src
+/test
+/.gitignore
+/.travis.yml
+
+# dependencies
+/node_modules
+
+tslint.json
+tsconfig.json
+*.sh
